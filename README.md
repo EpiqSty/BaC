@@ -32,7 +32,7 @@ business as code is the logical follow-up to the Infra as Code, and moreover the
   - translators, who agree with the fee, from the raised money, contribute to the translation:
     - and getting paid based on the amount of their contrubution
     - and the frequency of translation plays
- - there needed the copyright clearance as service
+  - there needed the copyright clearance as service
   
 ## needed services
 
