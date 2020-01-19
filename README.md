@@ -4,7 +4,7 @@ business as code is the logical follow-up to the Infra as Code, and moreover the
 
 ## key motivations:
 
-- decouple needed skills and competencies among whole business life-cycle for the sake of 
+- decouple needed skills and competencies among whole business life-cycle for the sake of:
   - redundancy/reilability
   - ease of access to all variety thru the code hubs
   - time to market reduction & speedu of response to the changes 
@@ -15,20 +15,24 @@ business as code is the logical follow-up to the Infra as Code, and moreover the
 
 ## examples:
 
-- distributed and decentralized k8s workers, generally available
+- distributed and decentralized k8s workers, generally available:
   - is's like spot ec2 market in aws, but open-source and decentralized
   
-- ideas hub
+- ideas hub:
   - someone commits his idea to the hub and thereby initialize [BaC](#BaC) project/repo
   - others interacts as:
     - dev/ops partners who actually drive the idea to running business
     - investors who exchange their funds for business shares
-    - clients who consume the realization of idea
+    - clients who consume the realization of idea:
       - and interact directly to business runners via the same hub by raising tickets/feature requests
       - there should be possibility to directly fund bug-fixing for example, speeding up thereby issue resolution
       
-- movies translation service
-  - 
+- movies translation service:
+  - someone requests translation of movie, and thereby creates crowd-funding compaign for the translation  
+  - translators, who agree with the fee, from the raised money, contribute to the translation:
+    - and getting paid based on the amount of their contrubution
+    - and the frequency of translation plays
+ - there needed the copyright clearance as service
   
 ## needed services
 
