@@ -42,6 +42,8 @@ business as code is the logical follow-up to the Infra as Code, and moreover the
     - and the frequency of translation plays
   - there needed the copyright clearance as service
   
+- 2check: https://2nd.law/
+  
 ## needed services
 
 - patent as service
