@@ -7,7 +7,7 @@ business as code is the logical follow-up to the Infra as Code, and moreover the
 - decouple needed skills and competencies among whole business life-cycle for the sake of:
   - redundancy/reilability
   - ease of access to all variety thru the code hubs
-  - time to market reduction & speedu of response to the changes 
+  - time to market reduction & speedup of response to the changes 
   - at the end the survivability 
 - provide and secure fair compensation to all contributors, based on:
   - amount of their contribution
