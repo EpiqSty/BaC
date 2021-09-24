@@ -33,6 +33,7 @@ business as code is the logical follow-up to the Infra as Code, and moreover the
   - apply your demo via pull request
   - content contribution will payed off for releases
   - code contribution will also benefits from forks
+  - 2check: https://audius.co/
 
 
 - movies translation service:
